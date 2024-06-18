@@ -1,4 +1,5 @@
-ubuntu
+piaoyizy/openwrt-x86
+#ubuntu
 #nginx
 #adguard/adguardhome
 #支持私库
