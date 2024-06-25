@@ -1,9 +1,10 @@
 
 #--platform=linux/arm64 adguard/adguardhome
---platform=linux/arm/v7 xiaoyaliu/alist
---platform=linux/arm/v7 vaultwarden/server
---platform=linux/arm/v7 6053537/portainer-ce
+#--platform=linux/arm/v7 xiaoyaliu/alist
+#--platform=linux/arm/v7 vaultwarden/server
+#--platform=linux/arm/v7 6053537/portainer-ce
 #--platform=linux/arm64 tailscale/tailscale
+sulinggg/openwrt-mini:armv7
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
