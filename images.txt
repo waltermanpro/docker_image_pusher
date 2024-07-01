@@ -14,7 +14,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 xhofe/alist
 #--platform=linux/arm64 vaultwarden/server
---platform=linux/arm64 homeassistant/home-assistant
+--platform=linux/arm64 homeassistant/home-assistant:stable
 #--platform=linux/arm64 nginx:stable
 #--platform=linux/arm64 portainer/portainer-ce
 #--platform=linux/arm64 6053537/portainer-ce
