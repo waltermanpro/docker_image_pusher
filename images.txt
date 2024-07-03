@@ -2,8 +2,8 @@
 #--platform=linux/arm/v7 xiaoyaliu/alist
 #--platform=linux/arm/v7 vaultwarden/server
 #--platform=linux/arm/v7 6053537/portainer-ce
---platform=linux/arm/v7 nginx
---platform=linux/arm/v7 php:fpm
+--platform=linux/arm/v7 cym1102/nginxwebui:4.1.4
+#--platform=linux/arm/v7 php:fpm
 #--platform=linux/arm/v7 homeassistant/home-assistant:stable
 
 #支持私库
