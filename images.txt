@@ -1,21 +1,23 @@
 
-#--platform=linux/arm64 adguard/adguardhome
 #--platform=linux/arm/v7 xiaoyaliu/alist
 #--platform=linux/arm/v7 vaultwarden/server
 #--platform=linux/arm/v7 6053537/portainer-ce
-#--platform=linux/arm64 tailscale/tailscale
-#--platform=linux/arm/v7 sulinggg/openwrt-mini:arm_cortex-a7
-#--platform=linux/arm64 teddysun/xray
+--platform=linux/arm/v7 nginx
+--platform=linux/arm/v7 php:fpm
+#--platform=linux/arm/v7 homeassistant/home-assistant:stable
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
+#--platform=linux/arm64 tailscale/tailscale
+#--platform=linux/arm64 teddysun/xray
 #--platform=linux/arm64 adguard/adguardhome
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 xhofe/alist
 #--platform=linux/arm64 vaultwarden/server
---platform=linux/arm/v7 homeassistant/home-assistant:stable
-#--platform=linux/arm64 nginx:stable
+#--platform=linux/arm64 nginx
+#--platform=linux/arm64 php:fpm
 #--platform=linux/arm64 portainer/portainer-ce
 #--platform=linux/arm64 6053537/portainer-ce
-#--platform=linux/arm64 tailscale/tailscale
+
