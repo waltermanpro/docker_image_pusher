@@ -12,7 +12,7 @@
 #支持指定架构
 #--platform=linux/arm64 tailscale/tailscale
 #--platform=linux/arm64 teddysun/xray
---platform=linux/arm64 adguard/adguardhome
+#--platform=linux/arm64 adguard/adguardhome
 --platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 xhofe/alist
 --platform=linux/arm64 vaultwarden/server
