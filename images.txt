@@ -21,5 +21,5 @@
 --platform=linux/arm64 portainer/portainer-ce
 --platform=linux/arm64 guovern/iptv-api:lite
 #--platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
-#--platform=linux/arm64 tailscale/tailscale
+--platform=linux/arm64 tailscale/tailscale
 #--platform=linux/arm64 teddysun/xray
