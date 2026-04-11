@@ -25,7 +25,7 @@
 --platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
 --platform=linux/arm64 jc21/nginx-proxy-manager
 --platform=linux/arm64 lscr.io/linuxserver/syncthing:latest
---platform=linux/arm64 ghcr.io/fish2018/pansou-web
+#--platform=linux/arm64 ghcr.io/fish2018/pansou-web
 #---------------amd64------------------------
 --platform=linux/arm64 teddysun/xray
 --platform=linux/amd64 adguard/adguardhome
@@ -42,4 +42,4 @@
 --platform=linux/amd64 ghcr.io/home-assistant/home-assistant:stable
 --platform=linux/amd64 jc21/nginx-proxy-manager
 --platform=linux/amd64 lscr.io/linuxserver/syncthing:latest
---platform=linux/amd64 ghcr.io/fish2018/pansou-web
+#--platform=linux/amd64 ghcr.io/fish2018/pansou-web
